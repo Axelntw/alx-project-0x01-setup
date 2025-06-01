@@ -1,6 +1,6 @@
-import PostCard from '@/components/common/PostCard';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
+import PostCard from '../../components/common/PostCard';
+import Header from '../../components/layout/Header';
+import Footer from '../../components/layout/Footer';
 
 const Posts: React.FC = () => {
   return (
