@@ -1,3 +1,5 @@
+//import { PostProps } from", "User ID: {userId}", "Post ID: {id}
+
 interface PostCardProps {
   title: string;
   content: string;

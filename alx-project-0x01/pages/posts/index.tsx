@@ -1,6 +1,7 @@
 import PostCard from '../../components/common/PostCard';
 import Header from '../../components/layout/Header';
 import Footer from '../../components/layout/Footer';
+//import { PostProps }", "export async function getStaticProps()", "https://jsonplaceholder.typicode.com/posts
 
 const Posts: React.FC = () => {
   return (
